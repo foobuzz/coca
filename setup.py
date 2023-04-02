@@ -3,7 +3,7 @@ from setuptools import setup
 
 setup(
     name='coca',
-    version='1.0.0',
+    version='1.0.1',
     package_dir={'': 'src'},
     py_modules=['coca'],
     description=(
